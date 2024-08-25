@@ -16,5 +16,3 @@ Write a function that processes a string and outputs a list of bigrams. This tas
 
 5.Finding the Closest Key in a Dictionary
 Develop a function called `closest_key` that, given a dictionary where the keys are letters and values are lists of letters, identifies the key whose list contains the value closest to the beginning. This problem tests your skills in dictionary manipulation and search algorithms.
-
-Conclusion is a technical article on 'The Ultimate Guide to Data Analytics'.
